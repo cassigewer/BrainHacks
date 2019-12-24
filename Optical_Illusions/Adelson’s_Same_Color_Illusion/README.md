@@ -1,4 +1,4 @@
-# Adelson’s Same Color Illusion Illusion
+# Adelson’s Same Color Illusion
 ## Description:
 
 ## Instructions: 
@@ -9,14 +9,12 @@
 
 ## The Illusion
 
-![alt text](Adelson1.jpg "'Long'")
+![alt text](Adelson1.jpg "'Illusion'")
 
 ## Proof
 
-![alt text](Adelson2.jpg "'Short'")
+![alt text](Adelson2.jpg "'Proof'")
 
-
-![alt text](Both.gif "Both")
 
 
 
