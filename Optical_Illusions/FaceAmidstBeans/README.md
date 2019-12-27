@@ -23,4 +23,8 @@
 
 ## What Your Brain Is Doing: 
 
+* Not much...this illusion is simply marked by confusion. The confusing elements and colour play a large role in its deception. 
+
 ## Why Its Cool
+
+* Once you find the face in this coffee beans pile, every next time you look at this picture you will see it immediately!
