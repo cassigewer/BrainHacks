@@ -13,7 +13,7 @@
 ## The Illusion
 
 
-![alt text](SpinningDancer.gif "'Cube'")
+![alt text](SpinningDancer.gif "Dancer")
 
 
 

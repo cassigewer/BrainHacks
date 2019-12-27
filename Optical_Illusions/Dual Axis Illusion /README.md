@@ -13,9 +13,8 @@
 ## The Illusion
 
 
-![alt text](DualAxisIllusion.mp4 " Dual Axis")
 
-
+View the video [here](./DualAxisIllusion.mp4)
 
 
 

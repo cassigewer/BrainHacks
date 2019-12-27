@@ -13,7 +13,7 @@
 ## The Illusion
 
 
-![alt text](FaceAmidstBeans.jpg "'Cube'")
+![alt text](FaceAmidstBeans.jpg "'Coffee Beans'")
 
 
 

@@ -12,8 +12,9 @@
 ## The Illusion
 
 
-![alt text](MotionInducedBlindness.mp4 "Motion Induced Blindness")
+![](MotionInducedBlindness.mp4)
 
+View the video [here](./MotionInducedBlindness.mp4)
 
 
 

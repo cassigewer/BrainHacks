@@ -13,7 +13,7 @@
 ## The Illusion
 
 
-![alt text](TroxlerEffect.jpeg "'Cube'")
+![alt text](TroxlerEffect.jpeg "'Circle'")
 
 
 
