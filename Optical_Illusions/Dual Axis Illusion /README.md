@@ -13,7 +13,6 @@
 ## The Illusion
 
 
-![](DualAxisIllusion1.mp4)
 View the video [here](./DualAxisIllusion1.mp4)
 
 
