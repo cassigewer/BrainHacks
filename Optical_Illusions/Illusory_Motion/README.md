@@ -20,9 +20,13 @@
 
 ### Stepping Feet 
 
-![alt text](SteppingFeetIllusion.mp4 "Both")
+
+View the video [here](./SteppingFeetIllusion.mp4)
+
+### Biological Motion
 
 
+View the video [here](./BiologicalMotion.mp4)
 
 
 ## What Your Brain Is Doing: 
