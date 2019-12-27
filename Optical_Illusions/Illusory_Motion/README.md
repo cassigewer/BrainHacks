@@ -20,12 +20,12 @@
 
 ### Stepping Feet 
 
-
+![](SteppingFeetIllusion.mp4)
 View the video [here](./SteppingFeetIllusion.mp4)
 
 ### Biological Motion
 
-
+![](BiologicalMotion.mp4)
 View the video [here](./BiologicalMotion.mp4)
 
 
